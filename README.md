@@ -1,1 +1,0 @@
-# faptcha-signature
